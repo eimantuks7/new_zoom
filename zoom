@@ -1,0 +1,44 @@
+/* Zoom Emblema - ID*/ 
+#chat-messages .id-10762013 .badge-box:hover,
+#chat-messages .id-00000000 .badge-box:hover,
+#chat-messages .id-00000000 .badge-box:hover{ 
+	width: 65px; 
+	height: 65px; 
+	transition: 0.5s;  
+}
+
+/* Burkyst */ 
+#chat-messages .id-10762013 .badge-box i.bdg, .id-10762013 .no-badge i { 
+	background-image: url(https://i.imgur.com/5oK1l9e.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
+
+/* kazkas kitas */
+#chat-messages .id-00000000 .badge-box i.bdg, .id-00000000 .no-badge i { 
+	background-image: url(https://imgur.com/2NmEqsU.gif); 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial; 
+	position: absolute; 
+	top: 0px; 
+	left: 0px; 
+	border: 0px solid #444A59; 
+	border-radius: 0; 
+	background-size: cover; 
+	width: 100%; 
+	height: 100%; 
+	background-position: initial;
+}
